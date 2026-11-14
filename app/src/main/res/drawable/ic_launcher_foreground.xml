@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold stylized artillery tank silhouette + cannon + energy crest centered inside 66dp safe zone (coords 21..87) -->
+    <!-- Cannon Barrel angled upward-right -->
+    <path
+        android:fillColor="#36D8FF"
+        android:pathData="M56,43 L83,28 L86,34 L60,50 Z" />
+    <!-- Cannon Muzzle Ring -->
+    <path
+        android:fillColor="#F5B731"
+        android:pathData="M80,27 L86,25 L89,33 L83,36 Z" />
+    <!-- Upper Turret Dome -->
+    <path
+        android:fillColor="#E2F1FF"
+        android:pathData="M34,47 C34,38 43,34 53,34 C62,34 69,39 70,48 L34,48 Z" />
+    <!-- Turret Visor -->
+    <path
+        android:fillColor="#0E1B33"
+        android:pathData="M49,39 L63,39 C65,39 66,42 64,44 L49,44 Z" />
+    <!-- Armored Chassis Hull -->
+    <path
+        android:fillColor="#F5B731"
+        android:pathData="M24,52 L80,52 L84,61 L22,61 Z" />
+    <!-- Lower Track Tread Frame -->
+    <path
+        android:fillColor="#8DA9C4"
+        android:pathData="M23,63 C23,60 26,59 29,59 L77,59 C80,59 83,61 83,65 C83,70 79,73 74,73 L32,73 C27,73 23,69 23,63 Z" />
+    <!-- Track Wheels -->
+    <path
+        android:fillColor="#0E1B33"
+        android:pathData="M33,66 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 M47,66 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 M61,66 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 M74,66 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <!-- Gold Star Crest on Hull -->
+    <path
+        android:fillColor="#0E1B33"
+        android:pathData="M45,54 L47,57 L50,57 L48,59 L49,62 L45,60 L41,62 L42,59 L40,57 L43,57 Z" />
+</vector>

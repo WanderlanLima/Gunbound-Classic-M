@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gunbound Recomp</string>
+    <string name="lobby_title">GUNBOUND RECOMP</string>
+    <string name="lobby_subtitle">Thor\'s Hammer · Offline 1v1</string>
+    <string name="lobby_channel_prefix">Channel</string>
+    <string name="lobby_create_room">Create Room</string>
+    <string name="lobby_join_room">Quick Match</string>
+    <string name="lobby_avatar_shop">Avatar Shop</string>
+    <string name="lobby_exit">Reset</string>
+    <string name="room_title">1v1 Training Room</string>
+    <string name="room_start_game">START</string>
+    <string name="room_back">Lobby</string>
+    <string name="room_change_team">Switch Side</string>
+    <string name="room_select_mobile">Select Mobile</string>
+    <string name="room_select_items">Battle Items</string>
+    <string name="room_select_map">Map Side</string>
+    <string name="room_difficulty">CPU Difficulty</string>
+    <string name="loading_title">DEPLOYING TO ARENA</string>
+    <string name="battle_fire">FIRE</string>
+    <string name="battle_pass">PASS</string>
+    <string name="battle_pause">PAUSE</string>
+    <string name="battle_options">OPTIONS</string>
+    <string name="result_win">VICTORY</string>
+    <string name="result_lose">DEFEAT</string>
+    <string name="result_ok">OK</string>
+    <string name="shop_title">Avatar Shop</string>
+    <string name="shop_buy">Buy</string>
+    <string name="shop_equip">Equip</string>
+    <string name="shop_unequip">Unequip</string>
+    <string name="shop_try_on">Preview</string>
+    <string name="shop_sell">Sell</string>
+    <string name="shop_attributes">Attributes</string>
+</resources>

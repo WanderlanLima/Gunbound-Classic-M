@@ -1,0 +1,8 @@
+{
+  "name": "Gunbound Recomp",
+  "description": "Offline 1v1 classic artillery strategy game inspired by GunBound Thor's Hammer, featuring 16 mobiles, 22 classic map sides, 11 battle items, and Avatar Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
